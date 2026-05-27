@@ -62,3 +62,7 @@ g++ -std=c++20 main.cpp Member.cpp Professor.cpp Student.cpp Course.cpp Registra
 ├── Course.h / .cpp       # Course class representing academic modules
 ├── Registrar.h / .cpp    # Core controller handling data, files, and logic
 └── README.md             # Project documentation
+
+👤 Author
+Argyris Gkioumous - Student at University of West Attica (UNIWA)
+GitHub: @ArgyrisGkioumous
